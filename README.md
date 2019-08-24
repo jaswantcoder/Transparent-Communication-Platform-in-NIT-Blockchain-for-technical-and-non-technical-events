@@ -34,6 +34,8 @@ java Script
 
 ### Installing
 
+We impoerted the files in Ubuntu operating system. We downloaded all those files using terminal command
+
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
