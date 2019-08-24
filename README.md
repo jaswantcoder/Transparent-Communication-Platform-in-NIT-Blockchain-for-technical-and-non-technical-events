@@ -9,7 +9,7 @@ We have used the hyperledger fabric to model our own application using the diffe
 ### Tech Stack
 * [Hyperledger Composer](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 
-
+![alt text](https://github.com/Jaswanta/Transparent-Communication-Platform-in-NIT-Blockchain-for-technical-and-non-technical-events/blob/master/hyperledger%20composer.png)
 
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
