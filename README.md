@@ -1,19 +1,28 @@
 # Transparent-Communication-Platform-in-NIT-Blockchain-for-technical-and-non-technical-events
 
-We have created one blockchain based application for transparent communication in the technical and non-technical events organizeed in an NIT.
+We have created one blockchain based application for transparent communication in the technical and non-technical events organised in an NIT.
 
 ## Getting Started
 
 We have used the hyperledger fabric to model our own application using the different script files.
 
-### Prerequisites
+### Tech Stack
+* [Hyperledger Composer](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [RESTful APIs](https://maven.apache.org/) - Dependency Management
+* [Hyperledger Fabric](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Go framwork](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Java Script](https://maven.apache.org/) - Dependency Management
 
-We have uploaded 
-The required prerequisite files have
 
-```
-Give examples
-```
+Hyperledger Composer
+
+
+CLI Tools(command line interface)
+RESTful APIs
+Hyperledger Fabric
+POW(proof of work) Algorithm
+Go language
+java Script
 
 ### Installing
 
@@ -57,12 +66,6 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -73,14 +76,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+jaswant arya and Ratnesh tiwary
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+this project is created in NIT conclave 9th edition
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
