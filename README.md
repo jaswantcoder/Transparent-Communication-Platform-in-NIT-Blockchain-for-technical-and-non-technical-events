@@ -12,8 +12,10 @@ We have used the hyperledger fabric to model our own application using the diffe
 ![alt text](https://github.com/Jaswanta/Transparent-Communication-Platform-in-NIT-Blockchain-for-technical-and-non-technical-events/blob/master/hyperledger%20composer.png)
 *Hyperledger Composer:
   (Hyperledger Composer is a set of collaboration tools for building blockchain business networks that make it simple and fast for business owners and developers to create smart contracts and blockchain applications to solve business problems. Built with JavaScript, leveraging modern tools including node.js, npm, CLI and popular editors, Composer offers business-centric abstractions as well as sample apps with easy to test devops processes to create robust blockchain solutions that drive alignment across business requirements with technical development.)
+  ...
  *CLI Tools(command line interface):
  ( A command-line interface (CLI) is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines). The program which handles the interface is called a command-line interpreter or command-line processor, or shell.)
+ ...
  *RESTful APIs:
    (A RESTful API -- also referred to as a RESTful web service -- is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development.)
  *Hyperledger Fabric:
