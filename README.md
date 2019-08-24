@@ -16,6 +16,13 @@ POW(proof of work) Algorithm
 Go language
 java Script
 
+### Prerequisite
+Step 1:Starting a Hyperledger Fabric network
+  In order to follow this tutorial, you must start a Hyperledger Fabric network. You can use the simple Hyperledger Fabric network provided in the development environment, or you can use your own Hyperledger Fabric network that you have built by following the Hyperledger Fabric documentation.
+
+The tutorial will assume that you use the simple Hyperledger Fabric network provided in the development environment. If you use your own Hyperledger Fabric network, then you must map between the configuration detailed below and your own configuration and it should be a single organization network.
+   
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
@@ -55,7 +62,16 @@ Give an example
 ```
 
 ## Deployment
-Add additional notes about how to deploy this on a live system
+This tutorial presumes that you have experience setting up an instance of Hyperledger Fabric.
+
+In this tutorial, Hyperledger Composer is configured for a running instance of Hyperledger Fabric and a business network is deployed using that configuration.
+
+Start the single organization Hyperledger Fabric deployment tutorial.
+In the development environment, a simple development only Hyperledger Fabric single organization, single peer network is created for you (fabric-dev-servers), along with all of the Hyperledger Composer configuration that you need in order to deploy a blockchain business network.
+
+This tutorial will demonstrate the steps that an administrator needs to take in order to deploy a blockchain business network to an instance of Hyperledger Fabric for a single organization, including how to generate the necessary Hyperledger Composer configuration. A subsequent tutorial will demonstrate how to deploy a blockchain business network to an instance of Hyperledger Fabric for multiple organizations.
+
+During this tutorial, you may wish to refer to the Hyperledger Fabric documentation.
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
