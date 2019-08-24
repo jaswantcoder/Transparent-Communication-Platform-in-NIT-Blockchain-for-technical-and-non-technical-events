@@ -36,32 +36,14 @@ In a network users send each other digital tokens. A decentralized ledger gather
 
 ### Installing
 
-We impoerted the files in Ubuntu operating system. We downloaded all those files using terminal command
+We impoerted the files in Ubuntu operating system. We downloaded all those files using terminal commands and all those have been included in this Github repository.
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 
 ## Authors
 
-jaswant arya and Ratnesh tiwary
+Jaswant arya (B17CS036), Ratnesh tiwary (B17EC027)
 
 ## License
 
