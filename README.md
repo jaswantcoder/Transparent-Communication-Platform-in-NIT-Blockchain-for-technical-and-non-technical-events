@@ -27,27 +27,27 @@ In a network users send each other digital tokens. A decentralized ledger gather
  *java Script
  
  ### problem statement
-*overriding the problem of mismatch in transaction record bw SWD and student council 
-*transparency at each node of contact anyhow
-*formalize the relationship bw investors and investee
-*no need to spend any revenue for the parties which are remain idle
-*project funding from top tech companies which are undergoing in respective nit(s)
+*Overriding the problem of mismatch in transaction record between Student dean welfare and student council 
+*Transparency at each node of contact anyhow.
+*Formalize the relationship between investors and investee.
+*No need to spend any revenue for the parties which are remain idle. 
+*Project funding from top tech companies which are undergoing in respective NITs.
 
 
 ### Installing
 
-We impoerted the files in Ubuntu operating system. We downloaded all those files using terminal commands and all those have been included in this Github repository.
+We imported the files in Ubuntu operating system. We downloaded all those files using terminal commands and all those have been included in this Github repository. The nodes was created using the developer tools with guidance given by hyperledger. 
 
 
 
 
 ## Authors
 
-Jaswant arya (B17CS036), Ratnesh tiwary (B17EC027)
+Jaswant arya, Roll No.: B17CS036, Department of Computer Science and Engineering, National Institute of Technology Meghalaya.
 
 ## License
 
-this project is created in NIT conclave 9th edition
+This project was completed in hackathon event of NIT conclave 9th edition.
 ## Acknowledgments
  1. Trust:
 The smart contract can’t be lost as its embedded in the blockchain itself.
