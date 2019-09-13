@@ -36,7 +36,7 @@ In a network users send each other digital tokens. A decentralized ledger gather
 
 ### Installing
 
-We imported the files in Ubuntu operating system. We downloaded all those files using terminal commands and all those have been included in this Github repository. The nodes was created using the developer tools with guidance given by hyperledger. 
+We imported the hyperledger prerequisits and its files in Ubuntu operating system. We downloaded all those files using terminal commands and all those have been included in this Github repository. The nodes was created using the developer tools with guidance given by hyperledger. 
 
 
 
