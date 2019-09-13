@@ -1,4 +1,4 @@
-# Transparent-Communication-Platform-in-NIT-Blockchain-for-technical-and-non-technical-events
+# Transparent-Communication-Platform-in-NIT-:Blockchain-for-technical-and-non-technical-events
 
 We have created one blockchain based application for transparent communication in the technical and non-technical events organised in an NIT.
 
